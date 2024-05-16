@@ -23,23 +23,6 @@ In order to retrieve QAnon posts, https://QAnon.pub/ was leveraged. This website
 
 Trump tweets were retrieved from https://www.thetrumparchive.com/. This data was already available in .CSV format. Therefore, scraping was not needed. For the purpose of this project, Trump data was limited to the same time period as all available QAnon posts: October 2017 to December 2020. In addition to this, retweets were eliminated from the subset to account for the computationally expensive nature of this project. With all pre-processing complete our team had a dataset of roughly 14,000 tweets from Donald Trump.
 
-## Findings
-
-<img width="1167" alt="Screenshot 2024-03-20 at 11 34 24 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/8c0652c8-8e38-4086-8681-1e7f8ed652cd">
-
-<img width="1164" alt="Screenshot 2024-03-20 at 11 34 37 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/cc93d115-90e3-47ba-b7b6-bf7260ff1e43">
-
-<img width="1167" alt="Screenshot 2024-03-20 at 11 34 52 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/d6491fa8-1bf3-467d-b4a2-e6e4efa37461">
-
-<img width="1165" alt="Screenshot 2024-03-20 at 11 35 05 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/17d7b436-ff5b-42c2-9878-ef7e55ba9e85">
-
-<img width="1162" alt="Screenshot 2024-03-20 at 11 35 18 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/95433298-fb7d-46d8-9198-db240ad4eaa0">
-
-<img width="1165" alt="Screenshot 2024-03-20 at 11 35 34 AM" src="https://github.com/m1sohail/QAnon_Analysis/assets/77760774/3754d14a-0111-460c-aa83-df8ba88c7295">
-
-
-
-
 
 
 
